@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gwb:home|Door43 (gwb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gwb|d43-gwb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gwb/archive/master.zip|d43-gwb.zip]]
+
+**Recent Changes**
+{{changes>ns = gwb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gwb|Ethnologue data]]
+
